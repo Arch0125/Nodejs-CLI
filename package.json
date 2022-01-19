@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arch0125/Nodejs-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arch0125/Nodejs-CLI/issues"
+  },
+  "homepage": "https://github.com/Arch0125/Nodejs-CLI#readme",
+  "dependencies": {
+    "@adonisjs/ace": "^5.0.1"
+  }
+}
