@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Arch0125/Nodejs-CLI#readme",
   "dependencies": {
-    "@adonisjs/ace": "^5.0.1"
+    "@adonisjs/ace": "^5.0.1",
+    "ora": "^6.0.1"
   }
 }
